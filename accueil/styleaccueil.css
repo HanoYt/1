@@ -1,0 +1,96 @@
+/* Style général */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Section accueil */
+#accueil {
+    padding: 50px;
+    background-color: #ddd;
+    text-align: center;
+}
+
+#accueil h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#accueil p {
+    font-size: 1.2em;
+}
+
+/* Section à propos */
+#a-propos {
+    padding: 50px;
+    background-color: #fff;
+    text-align: center;
+}
+
+#a-propos h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#a-propos p {
+    font-size: 1.2em;
+}
+
+/* Section projets */
+#projets {
+    padding: 50px;
+    background-color: #f4f4f4;
+}
+
+#projets h2 {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 40px;
+}
+
+.projet {
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.projet h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+
+/* Section contact */
+#contact {
+    padding: 50px;
+    background-color: #ddd;
+    text-align: center;
+}
+
+#contact h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#contact p {
+    font-size: 1.2em;
+}
+
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer p {
+    margin: 0;
+    font-size: 1em;
+}
